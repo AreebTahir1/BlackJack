@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+body{
+    background-image: url('table.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 10vh;
+    color: goldenrod;
+}
+p{
+    color: whitesmoke;
+    font-size: 3vh;
+    font-weight: bolder;
+    margin-top: 4vh;
+}
+button{
+    width: 20vw;
+    border-radius: 3vh;
+    border: none;
+    font-size: 5vh;
+    padding: 1vh 2vh 1vh 2vh;
+    background-color: goldenrod;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 4vh;
+}
